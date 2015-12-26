@@ -1,0 +1,45 @@
+---
+title: "myfirstApp"
+author: "Sonia Marin"
+date: "December 24, 2015"
+output: html_document
+---
+
+##1. Objective
+In this report, it is described an App to calculate the probability of being part of desertion in high school, accordding to statistics of INE (National of Statistic in Venezuela 2002-2012).   
+
+##2. Introduction
+In Venezuela 42% of the population with age between 15 and 29 years old go to the school. The school asistence is slightly higher for women than for men. The average age when half of the young students left school is about 17.4 years old.
+This App try to call the attention of parents and young people about the high rates of desertion and how far or close can be any young men or women of being part of statistics.   
+
+So, are you a parent? or a young men or women? Do you know what is the probability of being part of the population that leave high school?   
+
+##3. Method 
+The App takes into acount the statistic of INE (National Institute of Statistic in Venezuela since 2002-2012) about population with ages since 10 to 27 years old, matriculation in high school for this ages and rates of desertion during the first, second and the fourth year of high school.   
+
+With this three data, it is calculated in a simple way the prediction about the probability of being part of the population that has deserted from high school.   
+
+##4. Providing the data
+The data to be provided to the App is the age of the student, the student sex and the year of high school that is currently studying. With the information mentioned the App calculates the probability of being part of the population that has deserted from high school.   
+
+The App also provide as information for the user, an histogram of frequency of the population desertion in first, second, third and fourth year of high school. The year that the user want to see is selected through a slider.   
+
+Finally, there is a submit button to tell the App that the user already did the selection and he/she wants to see the results.   
+
+##5. Results
+The results are shown in the main panel, where the user can see all the selections and also can see the prediction about the probability (%) of being part of the population that has deserted from high school.   
+
+Also, the user can see the Histogram of the year that he/she selected from the slider in the side panel.   
+
+##6. Conclusions
+1. This App has been design based on statistic from the INE to give a simple sense of the magnitud of the problem of scholar desertion in Venezuela.
+2. Even though is a game, the App is a wake-up call for students and parents, and it is trying to urged to take action.   
+
+## References
+1. http://www.ine.gov.ve/index.php?option=com_content&view=category&id=64&Itemid=39   
+
+2. http://www.ine.gov.ve/index.php?option=com_content&view=category&id=98&Itemid=51   
+
+3. UCAB. Proyecto Juventud Encuesta Nacional de Juventud 2013 - IIES   
+
+
